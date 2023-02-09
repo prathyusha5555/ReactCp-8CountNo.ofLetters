@@ -1,0 +1,46 @@
+.app-container {
+  background-image: linear-gradient(to right, #1d976c, #93f9b9);
+  height: 100vh;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  padding: 40px;
+}
+.text-container {
+  width: 50%;
+  margin-right: 30px;
+}
+.heading {
+  font-family: 'Roboto';
+  font-size: 32px;
+  font-weight: bold;
+  color: #ffffff;
+  margin-bottom: 20px;
+}
+.label {
+  font-family: 'Roboto';
+  font-size: 20px;
+  font-weight: 400;
+  color: #ffffff;
+}
+.text-bar {
+  border-color: #ffffff;
+  border-radius: 8px;
+  font-family: 'Roboto';
+  font-size: 22px;
+  color: #219a6f;
+  margin-bottom: 20px;
+}
+.result {
+  color: #219a6f;
+  font-family: 'Roboto';
+  background-color: #ffffff;
+  font-size: 20px;
+  border-radius: 8px;
+  padding: 8px;
+  width: 200px;
+}
+.image {
+  width: 50%;
+}
